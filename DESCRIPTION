@@ -1,0 +1,15 @@
+Package: Contdiff
+Type: Package
+Title: Batch difference analysis of continuous variables
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Sujie",
+      email = "22018826@zju.edu.cn",
+      role = c("aut", "cre")
+    )
+  )
+Description: This package provides the function of difference analysis for continuous variables. It can automatically select parametric or non-parametric test methods based on the results of normality tests and generate formatted statistical tables.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
