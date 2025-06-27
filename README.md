@@ -2,6 +2,12 @@
 
 ## Example
 ```
+# install.packages("devtools")
+
+# install Contdiff
+library(devtools)
+install_github("Sueje97/Contdiff")
+
 library(Contdiff)
 library(dplyr)
 
