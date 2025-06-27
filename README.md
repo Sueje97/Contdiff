@@ -9,7 +9,7 @@ library(devtools)
 install_github("Sueje97/Contdiff")
 
 library(Contdiff)
-library(dplyr)
+library(broom)
 
 data(mtcars)
 
